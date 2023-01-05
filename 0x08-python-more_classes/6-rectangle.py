@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """Area and Perimeter"""
 
-
 class Rectangle:
     """Defines the implementation of a rectangle
     Attribute:
