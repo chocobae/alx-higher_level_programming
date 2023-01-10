@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """defines function to scalar divde matrix"""
 
